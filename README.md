@@ -1,6 +1,9 @@
 # Power Monitoring for Xilinx Zynq Ultrascale+ MPSoC ZCU102
 
 # Usage
+The power monitoring application for Xilinx Zynq Ultrascale+ MPSoC ZCU102 was developed in reference to [1].
+
+[1] Zynq-7000 AP SoC Low Power Techniques part 3 - Measuring ZC702 Power with a Standalone Application Tech Tip. website: https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842356/Zynq-7000+AP+SoC+Low+Power+Techniques+part+3+-+Measuring+ZC702+Power+with+a+Standalone+Application+Tech+Tip
 
 # Citations
 If you use this code as part of your work, please cite the following paper:
